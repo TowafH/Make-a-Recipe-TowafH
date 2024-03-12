@@ -1,0 +1,43 @@
+/* Insert any CSS code below here */
+body{
+  background-color:rosybrown;
+}
+h1{
+  color:saddlebrown;
+}
+h2{
+  font-size: 32px;
+  color:floralwhite;  
+}
+p{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size:18px;
+  border:4px;
+  border-radius:20%;
+  border-style:solid;
+  border-color:antiquewhite;
+  background-color:sandybrown;
+  padding:1px;
+  margin: 25px;
+  color:saddlebrown;
+}
+img{
+  border:4px;
+  border-radius:25%;
+  border-style:solid;
+  border-color:aliceblue;
+}
+h3 {
+  font-size: 40px;
+  color: bisque;
+}
+a{
+  color:beige;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  border:6px;
+  border-radius:30%;
+  border-style:solid;
+  border-color:antiquewhite;
+  background-color:sandybrown;
+   padding:1%;
+}
